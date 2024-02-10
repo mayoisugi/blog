@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Halp
 ---
 ## Blog Post Title From First Header
