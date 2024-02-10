@@ -23,7 +23,8 @@ github_username: "mayoisugi"
 #theme: minima
 remote_theme: jekyll/minima
 
-baseurl: /blog
+#baseurl: /blog
+baseurl: 
 url: https://mayoisugi.github.io
 
 minima:
