@@ -24,7 +24,7 @@ github_username: "mayoisugi"
 remote_theme: jekyll/minima
 
 baseurl: /blog
-url: http://mayoisugi.github.io
+url: https://mayoisugi.github.io
 
 minima:
   skin: dark
