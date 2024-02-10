@@ -30,6 +30,10 @@ permalink: /:categories/:year/:month/:day/:title/
 
 rss: rss
 
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  
 kramdown:
   syntax_highlighter_opts:
     disable: true
