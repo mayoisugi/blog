@@ -20,7 +20,8 @@ github_username: "mayoisugi"
 #########################################################################################
 #remote_theme: mayoisugi/moonwalk
 #jekyll-theme-console
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 
 baseurl: /blog
 url: http://mayoisugi.github.io
