@@ -18,12 +18,16 @@ github_username: "mayoisugi"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: mayoisugi/moonwalk
+#remote_theme: mayoisugi/moonwalk
 #jekyll-theme-console
+theme: minima
 
 baseurl: /blog
 url: http://mayoisugi.github.io
 
+minima:
+  skin: dark
+  
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
 
