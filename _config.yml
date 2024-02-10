@@ -20,6 +20,9 @@ github_username: "mayoisugi"
 #########################################################################################
 remote_theme: mayoisugi/jekyll-theme-console
 
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: false # false (default) or true
+
 lang: en 
 languages: ["en", "jp"] 
 permalink: /:categories/:year/:month/:day/:title/
